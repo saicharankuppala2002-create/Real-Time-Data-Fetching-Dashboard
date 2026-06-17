@@ -1,0 +1,20 @@
+
+======================================
+REAL TIME WEATHER DATA FETCHING REPORT
+======================================
+
+Total Records Collected : 5
+
+Average Temperature : 32.6
+Maximum Temperature : 32.6
+Minimum Temperature : 32.6
+
+Average Wind Speed : 1.5
+
+Files Generated:
+1. real_time_weather_data.csv
+2. temperature_graph.png
+3. windspeed_graph.png
+4. weather_summary_piechart.png
+
+Project Status : SUCCESS
